@@ -11,14 +11,18 @@
 	<tr>
 		<td>
 			<center>
-				<video src="imgs/nerf/kits_00000_aixs010.mp4">
+				<video width="100%" controls>
+  					<source src="imgs/nerf/kits_00000_axis010.mp4" type="video/mp4">
+				</video>
 				<br/>
 				<font color="AAAAAA">NeRF</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<video src="imgs/volnerf/kits_00000_aixs010.mp4">
+				<video width="100%" controls>
+  					<source src="imgs/volnerf/kits_00000_axis010.mp4" type="video/mp4">
+				</video>
 				<br/>
 				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
 			</center>
@@ -28,7 +32,7 @@
 
 * axis $\overset{\rightarrow}{n}=(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}, 0)$
 
-<table rules="none" align="center">
+<!-- <table rules="none" align="center">
 	<tr>
 		<td>
 			<center>
@@ -45,7 +49,7 @@
 			</center>
 		</td>
 	</tr>
-</table>
+</table> -->
 
 * axis $\overset{\rightarrow}{n}=(\frac{\sqrt{2}}{2}, 0, \frac{\sqrt{2}}{2})$
 * axis $\overset{\rightarrow}{n}=(0, \frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2})$
