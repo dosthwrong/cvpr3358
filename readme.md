@@ -27,6 +27,7 @@
 </table>
 
 * axis $\overset{\rightarrow}{n}=(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}, 0)$
+
 <table rules="none" align="center">
 	<tr>
 		<td>
@@ -45,6 +46,7 @@
 		</td>
 	</tr>
 </table>
+
 * axis $\overset{\rightarrow}{n}=(\frac{\sqrt{2}}{2}, 0, \frac{\sqrt{2}}{2})$
 * axis $\overset{\rightarrow}{n}=(0, \frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2})$
 
@@ -55,3 +57,21 @@
 
 
 ## Arbitrary scales
+<!-- <table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<video src="imgs/nerf/KiTS19_00000_multi_scale.gif"/>
+				<br/>
+				<font color="AAAAAA">NeRF</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<video src="imgs/volnerf/KiTS19_00000_multi_scale.gif"/>
+				<br/>
+				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
+			</center>
+		</td>
+	</tr>
+</table> -->
