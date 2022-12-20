@@ -10,14 +10,33 @@
 	<tr>
 		<td>
 			<center>
-  				<img src="imgs/nerf/KiTS19_00105_axis100.gif" width=100%>
+  				<img src="imgs/nerf/KiTS19_00105_multi_section_test_axis=100.gif" width=100%>
 				<br/>
 				<font color="AAAAAA">NeRF</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="imgs/volnerf/KiTS19_00105_axis100.gif" width=100%>
+				<img src="imgs/volnerf/KiTS19_00105_multi_section_test_axis=100.gif" width=100%>
+				<br/>
+				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
+			</center>
+		</td>
+	</tr>
+</table>
+
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+  				<img src="imgs/nerf/MSD_liver_198_multi_section_test_axis=100.gif" width=100%>
+				<br/>
+				<font color="AAAAAA">NeRF</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="imgs/volnerf/MSD_liver_198_multi_section_test_axis=100.gif" width=100%>
 				<br/>
 				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
 			</center>
@@ -31,14 +50,33 @@
 	<tr>
 		<td>
 			<center>
-  				<img src="imgs/nerf/KiTS19_00000_axis010.gif" width=100%>
+  				<img src="imgs/nerf/KiTS19_00000_multi_section_test_axis=010.gif" width=100%>
 				<br/>
 				<font color="AAAAAA">NeRF</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="imgs/volnerf/KiTS19_00000_axis010.gif" width=100%>
+				<img src="imgs/volnerf/KiTS19_00000_multi_section_test_axis=010.gif" width=100%>
+				<br/>
+				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
+			</center>
+		</td>
+	</tr>
+</table>
+
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+  				<img src="imgs/nerf/MSD_colon_175_multi_section_test_axis=010.gif" width=100%>
+				<br/>
+				<font color="AAAAAA">NeRF</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="imgs/volnerf/MSD_colon_175_multi_section_test_axis=010.gif" width=100%>
 				<br/>
 				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
 			</center>
@@ -52,14 +90,14 @@
 	<tr>
 		<td>
 			<center>
-  				<img src="imgs/nerf/KiTS19_00144_axis110.gif" width=100%>
+  				<img src="imgs/nerf/KiTS19_00144_multi_section_test_axis=110.gif" width=100%>
 				<br/>
 				<font color="AAAAAA">NeRF</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="imgs/volnerf/KiTS19_00144_axis110.gif" width=100%>
+				<img src="imgs/volnerf/KiTS19_00144_multi_section_test_axis=110.gif" width=100%>
 				<br/>
 				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
 			</center>
@@ -71,33 +109,14 @@
 	<tr>
 		<td>
 			<center>
-  				<img src="imgs/nerf/MSD_colon_046_axis110.gif" width=100%>
+  				<img src="imgs/nerf/MSD_liver_167_multi_section_test_axis=110.gif" width=100%>
 				<br/>
 				<font color="AAAAAA">NeRF</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="imgs/volnerf/MSD_colon_046_axis110.gif" width=100%>
-				<br/>
-				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
-			</center>
-		</td>
-	</tr>
-</table>
-
-<table rules="none" align="center">
-	<tr>
-		<td>
-			<center>
-  				<img src="imgs/nerf/MSD_liver_167_axis110.gif" width=100%>
-				<br/>
-				<font color="AAAAAA">NeRF</font>
-			</center>
-		</td>
-		<td>
-			<center>
-				<img src="imgs/volnerf/MSD_liver_167_axis110.gif" width=100%>
+				<img src="imgs/volnerf/MSD_liver_167_multi_section_test_axis=110.gif" width=100%>
 				<br/>
 				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
 			</center>
@@ -107,18 +126,37 @@
 
 * axis $\overset{\rightarrow}{n}=(\frac{\sqrt{2}}{2}, 0, \frac{\sqrt{2}}{2})$
 
-<table rules="none" align="center">
+<!-- <table rules="none" align="center">
 	<tr>
 		<td>
 			<center>
-  				<img src="imgs/nerf/KiTS19_00144_axis101.gif" width=100%>
+  				<img src="imgs/nerf/KiTS19_00144_multi_section_test_axis=101.gif" width=100%>
 				<br/>
 				<font color="AAAAAA">NeRF</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="imgs/volnerf/KiTS19_00144_axis101.gif" width=100%>
+				<img src="imgs/volnerf/KiTS19_00144_multi_section_test_axis=101.gif" width=100%>
+				<br/>
+				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
+			</center>
+		</td>
+	</tr>
+</table> -->
+
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+  				<img src="imgs/nerf/MSD_colon_065_multi_section_test_axis=101.gif" width=100%>
+				<br/>
+				<font color="AAAAAA">NeRF</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="imgs/volnerf/MSD_colon_065_multi_section_test_axis=101.gif" width=100%>
 				<br/>
 				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
 			</center>
@@ -132,14 +170,14 @@
 	<tr>
 		<td>
 			<center>
-  				<img src="imgs/nerf/KiTS19_00000_axis011.gif" width=100%>
+  				<img src="imgs/nerf/KiTS19_00000_multi_section_test_axis=011.gif" width=100%>
 				<br/>
 				<font color="AAAAAA">NeRF</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="imgs/volnerf/KiTS19_00000_axis011.gif" width=100%>
+				<img src="imgs/volnerf/KiTS19_00000_multi_section_test_axis=011.gif" width=100%>
 				<br/>
 				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
 			</center>
@@ -151,14 +189,14 @@
 	<tr>
 		<td>
 			<center>
-  				<img src="imgs/nerf/KiTS19_00105_axis011.gif" width=100%>
+  				<img src="imgs/nerf/KiTS19_00105_multi_section_test_axis=011.gif" width=100%>
 				<br/>
 				<font color="AAAAAA">NeRF</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="imgs/volnerf/KiTS19_00105_axis011.gif" width=100%>
+				<img src="imgs/volnerf/KiTS19_00105_multi_section_test_axis=011.gif" width=100%>
 				<br/>
 				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
 			</center>
@@ -172,14 +210,14 @@
 	<tr>
 		<td>
 			<center>
-  				<img src="imgs/nerf/MSD_colon_046_axis111.gif" width=100%>
+  				<img src="imgs/nerf/MSD_colon_046_multi_section_test_axis=111.gif" width=100%>
 				<br/>
 				<font color="AAAAAA">NeRF</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="imgs/volnerf/MSD_colon_046_axis111.gif" width=100%>
+				<img src="imgs/volnerf/MSD_colon_046_multi_section_test_axis=111.gif" width=100%>
 				<br/>
 				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
 			</center>
@@ -191,14 +229,14 @@
 	<tr>
 		<td>
 			<center>
-  				<img src="imgs/nerf/MSD_liver_167_axis111.gif" width=100%>
+  				<img src="imgs/nerf/MSD_liver_167_multi_section_test_axis=111.gif" width=100%>
 				<br/>
 				<font color="AAAAAA">NeRF</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="imgs/volnerf/MSD_liver_167_axis111.gif" width=100%>
+				<img src="imgs/volnerf/MSD_liver_167_multi_section_test_axis=111.gif" width=100%>
 				<br/>
 				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
 			</center>
@@ -208,3 +246,78 @@
 
 ## Arbitrary scales
 
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+  				<img src="imgs/nerf/ADNI_130_S_5059_MR_Field_Mapping__br_raw_20130510152851115_107_S189115_I371965_multi_scale_test.gif" width=100%>
+				<br/>
+				<font color="AAAAAA">NeRF</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="imgs/volnerf/ADNI_130_S_5059_MR_Field_Mapping__br_raw_20130510152851115_107_S189115_I371965_multi_scale_test.gif" width=100%>
+				<br/>
+				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
+			</center>
+		</td>
+	</tr>
+</table>
+
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+  				<img src="imgs/nerf/MSD_liver_198_multi_scale_test.gif" width=100%>
+				<br/>
+				<font color="AAAAAA">NeRF</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="imgs/volnerf/MSD_liver_198_multi_scale_test.gif" width=100%>
+				<br/>
+				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
+			</center>
+		</td>
+	</tr>
+</table>
+
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+  				<img src="imgs/nerf/MSD_colon_046_multi_scale_test.gif" width=100%>
+				<br/>
+				<font color="AAAAAA">NeRF</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="imgs/volnerf/MSD_colon_046_multi_scale_test.gif" width=100%>
+				<br/>
+				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
+			</center>
+		</td>
+	</tr>
+</table>
+
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+  				<img src="imgs/nerf/KiTS19_00000_multi_scale_test.gif" width=100%>
+				<br/>
+				<font color="AAAAAA">NeRF</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="imgs/volnerf/KiTS19_00000_multi_scale_test.gif" width=100%>
+				<br/>
+				<font color="AAAAAA"><em>Vol-NeRF</em> (Ours)</font>
+			</center>
+		</td>
+	</tr>
+</table>
