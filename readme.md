@@ -4,7 +4,7 @@
 ![Overall architecture](imgs/overall.png)
 
 ## Arbitrary Views
-* axis $\overset{\rightarrow}{n}=(1, 0, 0)$
+* axis=(1, 0, 0)
 
 <table rules="none" align="center">
 	<tr>
@@ -25,7 +25,7 @@
 	</tr>
 </table>
 
-* axis $\overset{\rightarrow}{n}=(0, 1, 0)$
+* axis=(0, 1, 0)
 
 <table rules="none" align="center">
 	<tr>
@@ -46,7 +46,7 @@
 	</tr>
 </table>
 
-* axis $\overset{\rightarrow}{n}=(\frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2}, 0)$
+* axis=(1, 1, 0)
 
 <table rules="none" align="center">
 	<tr>
@@ -67,7 +67,7 @@
 	</tr>
 </table>
 
-* axis $\overset{\rightarrow}{n}=(\frac{\sqrt{2}}{2}, 0, \frac{\sqrt{2}}{2})$
+* axis=(1, 0, 1)
 
 <table rules="none" align="center">
 	<tr>
@@ -88,7 +88,7 @@
 	</tr>
 </table>
 
-* axis $\overset{\rightarrow}{n}=(0, \frac{\sqrt{2}}{2}, \frac{\sqrt{2}}{2})$
+* axis=(0, 1, 1)
 
 <table rules="none" align="center">
 	<tr>
@@ -109,7 +109,7 @@
 	</tr>
 </table>
 
-* axis $\overset{\rightarrow}{n}=(\frac{\sqrt{3}}{3}, \frac{\sqrt{3}}{3}, \frac{\sqrt{3}}{3})$
+* axis=(1, 1, 1)
 
 <table rules="none" align="center">
 	<tr>
